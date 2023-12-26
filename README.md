@@ -1,2 +1,2 @@
-# retrorager
- A vintage new years party
+# Retro Rager: NYE Edition
+ A theme and cocktail menu for vintage new years party!
